@@ -1,0 +1,29 @@
+# Archivos generados por compilación AVR
+*.elf
+*.hex
+*.o
+*.obj
+*.map
+*.lst
+*.eep
+*.lss
+*.sym
+
+# Carpetas de build
+build/
+dist/
+out/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
